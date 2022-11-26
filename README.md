@@ -1,2 +1,2 @@
-# StopClock
-Vanilla JavaScript Stop clock 
+# StopWatch
+Vanilla JavaScript Stop watch 
